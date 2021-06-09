@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ejercicio-breaking-bad/static/css/main.bbe492e0.chunk.css",
+    "main.js": "/ejercicio-breaking-bad/static/js/main.786af80b.chunk.js",
+    "main.js.map": "/ejercicio-breaking-bad/static/js/main.786af80b.chunk.js.map",
+    "runtime-main.js": "/ejercicio-breaking-bad/static/js/runtime-main.2995c350.js",
+    "runtime-main.js.map": "/ejercicio-breaking-bad/static/js/runtime-main.2995c350.js.map",
+    "static/js/2.928f92df.chunk.js": "/ejercicio-breaking-bad/static/js/2.928f92df.chunk.js",
+    "static/js/2.928f92df.chunk.js.map": "/ejercicio-breaking-bad/static/js/2.928f92df.chunk.js.map",
+    "static/js/3.1b2e54e3.chunk.js": "/ejercicio-breaking-bad/static/js/3.1b2e54e3.chunk.js",
+    "static/js/3.1b2e54e3.chunk.js.map": "/ejercicio-breaking-bad/static/js/3.1b2e54e3.chunk.js.map",
+    "index.html": "/ejercicio-breaking-bad/index.html",
+    "static/css/main.bbe492e0.chunk.css.map": "/ejercicio-breaking-bad/static/css/main.bbe492e0.chunk.css.map",
+    "static/js/2.928f92df.chunk.js.LICENSE.txt": "/ejercicio-breaking-bad/static/js/2.928f92df.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/ejercicio-breaking-bad/static/media/logo.4543bc50.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2995c350.js",
+    "static/js/2.928f92df.chunk.js",
+    "static/css/main.bbe492e0.chunk.css",
+    "static/js/main.786af80b.chunk.js"
+  ]
+}
